@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Foreground layer for the adaptive launcher icon: a three-tier stack tower.
+     All content is kept within the central 66dp safe circle (centre 54,54) so
+     no launcher mask (circle/squircle/rounded square) clips it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M32,64h44v12h-44z" />
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M37,48h34v12h-34z" />
+    <path
+        android:fillColor="#2ED573"
+        android:pathData="M42,32h24v12h-24z" />
+</vector>
